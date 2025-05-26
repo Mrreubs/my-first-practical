@@ -1,0 +1,20 @@
+@media (max-width: 615px) {
+    .hero-width {
+        flex-direction: column;
+        height: 100%;
+        background-color: blue;
+        justify-content: center;
+        gap: 0;
+
+    }
+    .hero-section {
+        flex-direction: column;
+        height: 100%;
+        background-color: blue;
+    }
+}
+
+
+@media (max-width: 615px) {
+    
+}
